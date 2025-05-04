@@ -1,4 +1,4 @@
-# Automação e Testes – Eficiência no Dia a Dia
+# Automação e Testes
 
 Trabalho com automação e testes, ajudando empresas a resolver problemas relacionados a tarefas repetitivas e a garantir a qualidade dos sistemas.
 
