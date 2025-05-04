@@ -8,9 +8,9 @@ Trabalho com automação e testes, ajudando empresas a resolver problemas relaci
 - Implemento **soluções personalizadas** que tornam o dia a dia mais prático e eficiente para quem trabalha com tecnologia.
 
 ### Alguns exemplos:
-- **Automação de planilhas**: Automatizei o preenchimento e a organização de dados de planilhas que eram feitas manualmente, economizando horas de trabalho repetitivo.
-- **Testes Web**: Crio e **implemento testes automatizados** para garantir que sites e sistemas funcionem corretamente. Isso envolve desde a arquitetura dos testes até a criação e execução das automações para validar as funcionalidades nas novas versões.
-- **Raspagem de dados**: Criei scripts que extraem dados de sites de maneira rápida e eficiente, gerando relatórios em minutos.
+- **Automação de planilhas**: Automatizo o preenchimento e a organização de dados de planilhas que eram feitas manualmente, economizando horas de trabalho repetitivo.
+- **Testes Web**: **Implemento projetos de testes automatizados** para garantir que sites e sistemas funcionem corretamente, focando na validação contínua das funcionalidades.
+- **Raspagem de dados**: Crio scripts que capturam dados de sites de forma simples e eficiente, permitindo a análise e utilização das informações conforme a necessidade.
 
 ## O que você vai encontrar aqui:
 - Exemplos práticos de automações, como scripts para preencher planilhas automaticamente ou raspar dados de sites.
@@ -31,6 +31,3 @@ Trabalho com automação e testes, ajudando empresas a resolver problemas relaci
 - 🤔 **Estou buscando ajuda com**: Dúvidas sobre como tornar minhas automações mais escaláveis e robustas, especialmente em ambientes de produção.
 - 💬 **Fique à vontade para me perguntar sobre**: Como otimizar tarefas repetitivas, testes automatizados e maneiras de tornar processos mais eficientes.
 - 📫 **Me encontre por aqui**: [LinkedIn](https://br.linkedin.com/in/jeferson-caye)
----
-
-Estou sempre buscando novos desafios e aprendendo com a comunidade. Se você também trabalha com automação ou testes, fique à vontade para entrar em contato ou trocar ideias!
