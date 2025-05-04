@@ -1,4 +1,4 @@
-# Automação e Testes – Soluções para o dia a dia
+# Automação e Testes – Eficiência no Dia a Dia
 
 Trabalho com automação e testes, ajudando empresas a resolver problemas relacionados a tarefas repetitivas e a garantir a qualidade dos sistemas.
 
@@ -17,10 +17,11 @@ Trabalho com automação e testes, ajudando empresas a resolver problemas relaci
 - Projetos de automação e testes que estou desenvolvendo ou já desenvolvi, com foco em otimização de processos e qualidade de sistemas.
 
 ## Competências:
-- **Linguagens e Frameworks**: Python, Playwright, Flask, Django
+- **Linguagens e Frameworks**: Python, Playwright, Flask, Django, TestComplete
 - **Bancos de Dados**: PostgreSQL, SQLServer, Firebird
 - **Testes Automatizados**: Arquitetura de testes, testes Web, testes de API
 - **Outras Tecnologias**: Web scraping, Git, APIs, Bash
+- **Ferramentas de Automação e CI/CD**: Jenkins
 
 ## Sobre mim:
 
