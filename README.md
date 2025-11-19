@@ -17,9 +17,9 @@ Trabalho com automação e testes, ajudando empresas a resolver problemas relaci
 - Projetos de automação e testes que estou desenvolvendo ou já desenvolvi, com foco em otimização de processos e qualidade de sistemas.
 
 ## Competências:
-- **Linguagens e Frameworks**: Python, Playwright, Flask, Django, TestComplete
+- **Linguagens e Frameworks**: Python, Playwright, Flask, Django, TestComplete, K6
 - **Bancos de Dados**: PostgreSQL, SQLServer, Firebird
-- **Testes Automatizados**: Arquitetura de testes, testes Web, testes de API
+- **Testes Automatizados**: Arquitetura de testes, testes Web, testes de API, testes de performance
 - **Outras Tecnologias**: Web scraping, Git, APIs, Bash
 - **Ferramentas de Automação e CI/CD**: Jenkins
 
