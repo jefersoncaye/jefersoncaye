@@ -1,33 +1,57 @@
-# Automação e Testes
+# Jeferson Caye — Automação e Testes
 
-Trabalho com automação e testes, ajudando empresas a resolver problemas relacionados a tarefas repetitivas e a garantir a qualidade dos sistemas.
+**Tech Lead · QA Automation Engineer · Arquiteto de Frameworks de Teste**
+
+Construo infraestrutura de automação de testes escalável e ensino engenheiros a fazer o mesmo.
+
+---
 
 ## O que eu faço:
-- Crio **scripts automáticos** para simplificar tarefas diárias, como preenchimento de planilhas, raspagem de dados da web, entre outros.
-- Crio e **implemento testes automatizados** para garantir que sistemas funcionem sem erros, economizando tempo em processos manuais.
-- Implemento **soluções personalizadas** que tornam o dia a dia mais prático e eficiente para quem trabalha com tecnologia.
+
+- Projeto e implemento **frameworks de testes automatizados** com arquitetura sustentável — não scripts soltos, mas estruturas que escalam entre releases e ambientes.
+- Crio **automações de processos** que eliminam trabalho manual repetitivo: preenchimento de planilhas, raspagem de dados, integrações entre sistemas.
+- Desenvolvo **soluções sob medida** para equipes técnicas que precisam de confiabilidade e velocidade na entrega de software.
 
 ### Alguns exemplos:
-- **Automação de planilhas**: Automatizo o preenchimento e a organização de dados de planilhas que eram feitas manualmente, economizando horas de trabalho repetitivo.
-- **Testes Web**: **Implemento projetos de testes automatizados** para garantir que sites e sistemas funcionem corretamente, focando na validação contínua das funcionalidades.
-- **Raspagem de dados**: Crio scripts que capturam dados de sites de forma simples e eficiente, permitindo a análise e utilização das informações conforme a necessidade.
+
+- **Automação de planilhas**: Scripts que substituem horas de preenchimento manual por processos automatizados de coleta, organização e exportação de dados.
+- **Testes Web E2E**: Frameworks completos com Playwright + Pytest — page objects, fixtures customizadas, execução paralela e relatórios integrados ao CI.
+- **Testes de API**: Validação automatizada de endpoints com asserções estruturadas, parametrização de cenários e validação de schema.
+- **Testes de Performance**: Scripts K6 com simulação de carga realista, thresholds configuráveis e métricas prontas para análise.
+- **Raspagem de dados**: Scrapers em Python com rate limiting, normalização de dados e exportação para CSV ou banco de dados.
 
 ## O que você vai encontrar aqui:
-- Exemplos práticos de automações, como scripts para preencher planilhas automaticamente ou raspar dados de sites.
-- Projetos de automação e testes que estou desenvolvendo ou já desenvolvi, com foco em otimização de processos e qualidade de sistemas.
+
+- Frameworks de automação de testes prontos para produção, com arquitetura clara e documentação de uso.
+- Scripts e utilitários para automação de tarefas operacionais.
+- Projetos companion dos meus cursos na Udemy, com código aplicável a cenários reais.
 
 ## Competências:
-- **Linguagens e Frameworks**: Python, Playwright, Flask, Django, TestComplete, K6
-- **Bancos de Dados**: PostgreSQL, SQLServer, Firebird
-- **Testes Automatizados**: Arquitetura de testes, testes Web, testes de API, testes de performance
+
+- **Linguagens e Frameworks**: Python, Playwright, Pytest, Flask, Django, TestComplete, K6
+- **Bancos de Dados**: PostgreSQL, SQL Server, Firebird
+- **Testes Automatizados**: Arquitetura de frameworks, testes E2E, testes de API, testes de performance, testes de integração
 - **Outras Tecnologias**: Web scraping, Git, APIs, Bash
-- **Ferramentas de Automação e CI/CD**: Jenkins
+- **CI/CD**: Jenkins
+
+## Cursos na Udemy:
+
+Publico cursos técnicos focados em automação, traduzindo problemas reais em trilhas de aprendizado estruturadas:
+
+- **Playwright + Python** — Automação E2E e de API, do setup à integração CI
+- **K6 Performance Testing** — Load testing, scripting, thresholds e relatórios
+- **Python para Automação** — Fundamentos da linguagem aplicados a workflows de QA
+
+Cursos disponíveis em português e inglês.
 
 ## Sobre mim:
 
-- 🔭 **Atualmente, estou envolvido em**: Criar soluções de automação para ajudar empresas a melhorar sua eficiência, especialmente no desenvolvimento de testes automatizados e na otimização de processos operacionais.
-- 🌱 **Estou no processo de aprender**: Mais sobre estratégias de testes de integração e performance, além de explorar ferramentas novas para deixar as automações ainda mais rápidas e eficazes.
-- 👯 **Gostaria de colaborar em**: Projetos que envolvem automação de sistemas e tarefas repetitivas, principalmente focados em melhorar a qualidade e agilidade dos processos.
-- 🤔 **Estou buscando ajuda com**: Dúvidas sobre como tornar minhas automações mais escaláveis e robustas, especialmente em ambientes de produção.
-- 💬 **Fique à vontade para me perguntar sobre**: Como otimizar tarefas repetitivas, testes automatizados e maneiras de tornar processos mais eficientes.
-- 📫 **Me encontre por aqui**: [LinkedIn](https://br.linkedin.com/in/jeferson-caye)
+- 🔭 **Atualmente trabalhando em**: Arquiteturas de automação de testes escaláveis para ambientes multi-serviço e pipeline de dublagem automatizada para tradução dos meus cursos técnicos para inglês.
+- 🌱 **Estudando**: Estratégias avançadas de testes de integração e performance, além de ferramentas de TTS com clonagem de voz para produção de conteúdo.
+- 🤔 **Buscando evoluir em**: Escalabilidade e robustez de frameworks de automação em ambientes de produção.
+- 💬 **Pode me perguntar sobre**: Arquitetura de testes, automação com Playwright e Pytest, testes de performance com K6, e como estruturar automações que duram.
+- 📫 **Me encontre por aqui**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jeferson-caye)
+
+---
+
+<sub>Se pode ser testado, pode ser automatizado. Se pode ser automatizado, deve ser confiável.</sub>
